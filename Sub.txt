@@ -1,1 +1,1 @@
-
+vless://94c0edf3-b2e2-00aa-adaf-8f7fd7b004bd@ikco.ir:2082?type=ws&host=tun.lavazemtahrirr.ir&security=none&sni=1&alpn=&path=/&headerType=http#Mh2365-Bot
